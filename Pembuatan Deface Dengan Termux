@@ -1,0 +1,21 @@
+Cara Acces
+
+pkg update && pkg upgrade
+
+
+pkg install pythoh
+
+
+pkg install python2
+
+
+pkg install git
+
+
+git clone https://github.com/MrPatricX/Pembuatan_Deface
+
+
+cd 'Pembuatan_Deface(0).py'
+
+
+python2 'Pembuatan_Deface(0).py'
